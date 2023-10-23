@@ -1,10 +1,10 @@
 ---
 title: wordpress-tag
 tags:
-  - 'WordPress'
+  - WordPress
 private: true
-updated_at: ''
-id: null
+updated_at: '2023-10-23T18:25:04+09:00'
+id: 9003e8a974c448cfa58a
 organization_url_name: null
 slide: false
 ignorePublish: false
