@@ -1,10 +1,10 @@
 ---
-title: 脱GUIしたい人のためのGitコマンド集  
+title: 脱GUIしたい人のためのGitコマンド集
 tags:
   - GitHub
 private: true
-updated_at: ''
-id: null
+updated_at: '2023-10-23T22:14:05+09:00'
+id: 6747bdaf3d69273665bb
 organization_url_name: null
 slide: false
 ignorePublish: false
