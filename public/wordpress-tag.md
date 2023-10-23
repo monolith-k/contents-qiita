@@ -1,7 +1,7 @@
 ---
 title: wordpress-tag
 tags:
-  - ''
+  - 'WordPress'
 private: true
 updated_at: ''
 id: null
